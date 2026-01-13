@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "昼青",
+  "base_artist": "n-buna",
+  "createdAt": "2026-01-13T13:05:17.256603Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "昼青",
+      "artist": "n-buna",
+      "has_synced": false,
+      "path": "select/01_昼青_n-buna.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "昼青",
+      "artist": "ナブナ",
+      "has_synced": false,
+      "path": "select/02_昼青_ナブナ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "昼青",
+      "artist": "n-buna",
+      "has_synced": false,
+      "path": "select/pl_01_昼青_n-buna.txt"
+    }
+  ]
+}
